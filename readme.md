@@ -1,5 +1,13 @@
 Walking BTC - websocket stream data for bitcoin in $usd.
 
+Tech
+
+- webpack
+- binance api
+- websockets
+- trading view lightweight charts
+- sass
+
 ```javascript
 // /**
 //  * PAYLOAD
