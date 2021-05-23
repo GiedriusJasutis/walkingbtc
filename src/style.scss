@@ -1,0 +1,22 @@
+@import './config';
+
+body {
+  // background-color: $darkColor;
+  // background: url('images/btc.jpeg') no-repeat cover;
+  color: $lightColor;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  .bg-image {
+    position: absolute;
+    z-index: -1;
+    opacity: 0.05;
+  }
+
+  #myChart {
+    max-width: 1000px;
+    height: 800px;
+  }
+}
