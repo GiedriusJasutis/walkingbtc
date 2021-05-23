@@ -5,7 +5,7 @@ Tech
 - webpack
 - binance api
 - websockets
-- trading view lightweight charts
+- charts.js
 - sass
 
 ```javascript
